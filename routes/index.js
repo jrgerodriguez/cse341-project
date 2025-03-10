@@ -4,4 +4,6 @@ router.get("/", (req, res) => {
     res.send("Hello from Routes")
 })
 
+router.use('/contacts', require('./contacts'))
+
 module.exports = router
