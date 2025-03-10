@@ -1,0 +1,19 @@
+{
+  "name": "cse341-project",
+  "version": "1.0.0",
+  "description": "First project for cse341",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgerodriguez/cse341-project.git"
+  },
+  "author": "Jorge Menjivar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgerodriguez/cse341-project/issues"
+  },
+  "homepage": "https://github.com/jrgerodriguez/cse341-project#readme"
+}
